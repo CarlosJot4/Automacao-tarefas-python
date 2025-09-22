@@ -90,6 +90,6 @@ Exemplo de linhas CSV:
 ## Licença
 
 Use conforme desejar. Este é um exemplo educacional; não há garantias.
-Utilizei o copilot no VS Code para me auxiliar nos comentários e nesse README.md
 
 ---
+
